@@ -4,7 +4,7 @@ All mods should have the following fields:
 
 author - the author's name/handle.
 
-url - should be something like https://aucchen.github.io/social_democracy_alternate_history/
+url - should be something like https://aucchen.github.io/social_democracy_alternate_history/. Alternatively, it could be a link to a `game.json` file generated from DendryNexus.
 
 description - brief description of the mod.
 
